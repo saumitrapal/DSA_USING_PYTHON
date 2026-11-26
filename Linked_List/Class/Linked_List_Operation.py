@@ -156,5 +156,3 @@ my_linked_list.reverse()
 
 print(my_linked_list.print_list())
 # print(my_linked_list.get_node(1))
-
-
